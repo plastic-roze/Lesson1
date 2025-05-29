@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #ffffff, #764ba2);
 }
 
 .calculator {
@@ -25,8 +25,8 @@ body {
     padding: 5px;
     border: none;
     border-radius: 8px;
-    background: #ecf0f1;
-    color: #2c3e50;
+    background: #ffffff;
+    color: #000000;
 }
 
 .buttons {
@@ -41,7 +41,7 @@ body {
     border: none;
     border-radius: 8px;
     cursor: pointer;
-    background: #fefeff;
+    background: #5c5cf3;
     color: white;
     transition: background 0.3s;
 }
